@@ -537,6 +537,8 @@ button{
 }
 html,body{
     overflow-x: hidden;
+        position: relative;
+
 }
 .active{
     display: block;
